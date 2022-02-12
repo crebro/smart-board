@@ -10,7 +10,7 @@ and people could be able to share their whiteboard with others etc.
 
 ## CheckList
 
-- [] Recognizing text
-- [] Colors and beautification
-- [] Shapes recognition
-- [] Sharing / viewing as students (hopefully in the future)
+- [ ] Recognizing text
+- [ ] Colors and beautification
+- [ ] Shapes recognition
+- [ ] Sharing / viewing as students (hopefully in the future)
